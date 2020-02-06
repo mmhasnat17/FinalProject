@@ -1,6 +1,6 @@
 #YelpCamp
 * The YelpCamp is the final code along project of WebDevBootCamp assigned by Colt Steele.
-* The project was scripted inside AWS Cloud9 Environment and later hosted using SalesForce Heroku.
+* The project was scripted inside AWS Cloud9 Environment and later hosted using Heroku.
 
 #Deployed YelpCamp Link below
 * Please copy and paste the link "https://quiet-earth-26320.herokuapp.com" in your browser to access my YelpCamp project. Thank you.
