@@ -3,7 +3,7 @@
 * The project was scripted inside AWS Cloud9 Environment and later hosted using Heroku.
 
 #Deployed YelpCamp Link below
-* Please copy and paste the link "https://quiet-earth-26320.herokuapp.com" in your browser to access my YelpCamp project. Thank you.
+* Please copy and paste the link https://herokappcreatenew.herokuapp.com/ in your browser to access my YelpCamp project. Thank you.
 
 ##Initial Setup
 * Add Landing Page
